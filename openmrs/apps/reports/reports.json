@@ -45,13 +45,6 @@
          "sqlPath":"/var/www/bahmni_config/openmrs/apps/reports/sql/patient_missed.sql"
       }
    },
-   "PatientsMissed_Never_Completed_Appointment":{
-      "name":"Patients Missed who never completed an appointment and they don't have pending appointments",
-      "type":"MRSGeneric",
-      "config":{
-         "sqlPath":"/var/www/bahmni_config/openmrs/apps/reports/sql/patient_missed_never_completed_appointment.sql"
-      }
-   },
    "Household_Not_Screened":{
       "name":"Household not screened",
       "type":"MRSGeneric",
